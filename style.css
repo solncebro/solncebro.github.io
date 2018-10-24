@@ -13,7 +13,7 @@ a {
   color:#363636;
 }
 
-a:hover {
+.link-hover:hover {
   background: #363636; /* Цвет фона под ссылкой */ 
   color: #ffffff; /* Цвет ссылки */ 
   padding: 2px;
