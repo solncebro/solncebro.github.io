@@ -10,12 +10,12 @@ body {
   }
   
 a {
-  color:#363636;
+  color: inherit;
 }
 
 .link-hover:hover {
-  background: #363636; /* Цвет фона под ссылкой */ 
-  color: #ffffff; /* Цвет ссылки */ 
+  background: #363636;
+  color: #f0c1d9;
   padding: 2px;
  } 
 
@@ -49,6 +49,7 @@ h2 {
 
 h3 {
   font-size: 20px;
+  color: #a5316d
 }
 
 #header {
@@ -68,9 +69,6 @@ h3 {
   margin-top: 64px;
   text-align: center;
 }
-
-
-
 
 .fab:before {
   color: #363636;
